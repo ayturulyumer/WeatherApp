@@ -249,3 +249,11 @@ body {
     opacity: 1;
   }
 }
+
+@media (max-width: 375px) {
+.container{
+  max-width: 98%;
+}
+  
+}
+
